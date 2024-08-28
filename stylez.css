@@ -1,0 +1,36 @@
+h1 {
+    color: #ffff00;
+    background-color: rgb(204, 199, 199);
+    text-align: center;
+}
+
+.murica{
+    color:blue;
+    background-color: white ;
+}
+
+.africa{
+    color: yellow;
+    background-color: red;
+}
+.japan{
+    color: red ;
+    background-color: white;
+}
+
+ol{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-decoration:solid;
+}
+
+h3, h4{
+    text-align: center;
+    font-style: oblique;
+    text-decoration: underline;
+    text-shadow: 0cqmax;
+    font-size: larger;
+}
+
+
+
